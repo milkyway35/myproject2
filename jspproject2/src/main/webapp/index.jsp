@@ -8,7 +8,7 @@
 </head>
 <body>
 
-jspproject2프로젝트
+jspproject2프로젝트(수정)
 
 </body>
 </html>
